@@ -1,0 +1,8 @@
+onnxruntime
+Pillow
+flask
+flask_socketio
+opencv-python
+mediapipe
+cvzone
+python-dotenv
