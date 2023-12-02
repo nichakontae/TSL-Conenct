@@ -3,7 +3,11 @@ TSL Connect is the Thai Sign Language Detection website that can recognition ges
 
 ## Installation
 Installing dependencies
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 running the server
-```python object_detector.py```
+```
+python object_detector.py
+```
