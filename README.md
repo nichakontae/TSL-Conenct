@@ -1,5 +1,7 @@
 # TSL-Conenct
-TSL Connect is the Thai Sign Language Detection website that can recognition gesture through webcam in real-time 
+TSL Connect is the Thai Sign Language Detection website that can recognition gesture through webcam in real-time. In TSL Connect, we chose 9 Thai alphabets and 6 vowels that have the highest frequency of occurrence.
+<img width="1323" alt="Screenshot 2566-12-02 at 20 19 11" src="https://github.com/nichakontae/TSL-Conenct/assets/91275476/20fe44c4-58a6-4fe4-a4e8-240d55b6172a">
+
 
 ## Installation
 Installing dependencies
